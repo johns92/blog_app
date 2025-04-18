@@ -5,7 +5,7 @@ This application is built using the MERN (MongoDB, Express, React, Node.js) stac
 Currently, users are automatically signed out whenever they refresh blogs page.
 Fix it so that users don't have to login again after refreshing the page.
 
-## Functionalities
+## Existing Functionalities
 
 - **Authentication:** Secure user authentication system to protect your blogs.
 - **Create Blog:** Easily create and publish your blogs with a user-friendly interface.
